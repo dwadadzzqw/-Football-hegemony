@@ -1,1 +1,3 @@
 # -
+A one-to-one match-type casual soccer game that simulates the World Cup system. The first time the player enters the game, the player will select a team from 32 teams in 8 teams randomly grouped as their national team. In the game, the player control role is located on the left side of the screen, the computer control role is located on the right side of the game, and the player controls the character movement, jump, and kick by operating the virtual buttons. The player needs to win the game within 90 seconds, otherwise the game is over and restarts. Start. In the game, there will be some props at regular intervals. You can get props through football. Props can help players win the game better.
++ 61 416888231 Zheqijin07@yahoo.com
